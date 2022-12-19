@@ -86,7 +86,7 @@
 
 
  // TRAVERSING DOM
- var itemList = document.querySelector('#items');
+ //var itemList = document.querySelector('#items');
   //Parentnode
   //console.log(itemList.parentNode);
   //itemList.parentNode.style.backgroundColor = 'lightgrey';
